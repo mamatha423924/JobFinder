@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JobFinder/static/css/main.03f698f4.css",
+    "main.js": "/JobFinder/static/js/main.6a91666f.js",
+    "static/media/helmetMan.png": "/JobFinder/static/media/helmetMan.ac00df1f0a8f6556cdd9.png",
+    "static/media/htmlTag.png": "/JobFinder/static/media/htmlTag.1f683e5f332c6637a398.png",
+    "index.html": "/JobFinder/index.html",
+    "main.03f698f4.css.map": "/JobFinder/static/css/main.03f698f4.css.map",
+    "main.6a91666f.js.map": "/JobFinder/static/js/main.6a91666f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03f698f4.css",
+    "static/js/main.6a91666f.js"
+  ]
+}
